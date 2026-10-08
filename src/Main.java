@@ -3,6 +3,8 @@ public class Main {
         Calculate calculate = new Calculate();
         System.out.println(calculate.getSum());
         System.out.println(calculate.getSubtract());
+        System.out.println(calculate.getMultiply());
+
 
 
     }
