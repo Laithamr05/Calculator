@@ -4,6 +4,7 @@ public class Main {
         System.out.println(calculate.getSum());
         System.out.println(calculate.getSubtract());
         System.out.println(calculate.getMultiply());
+        System.out.println(calculate.getDivide());
 
 
 
